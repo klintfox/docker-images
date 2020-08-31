@@ -19,7 +19,7 @@ services:
   postgres-admin:
     image: dpage/pgadmin4
     environment:
-      PGADMIN_DEFAULT_EMAIL: "klint_f@hotmail.com"
+      PGADMIN_DEFAULT_EMAIL: "klinux@gmail.com"
       PGADMIN_DEFAULT_PASSWORD: "postgres"
     ports:
       - "16543:80"
