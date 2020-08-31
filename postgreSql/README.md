@@ -21,7 +21,7 @@
 ### Docker Compose 
 - Posicionarse en la misma ruta que el archivo docker-compose.yml y ejecutar el siguiente comando
     ```sh
-        docker-compose up
+    docker-compose up
     ```
 ### PostgreSql Manager
 - Abrir el navegador y escribir la siguiente ruta http://localhost:16543/browser/
