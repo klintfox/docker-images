@@ -10,7 +10,7 @@
     ```sh
     docker pull mongo:latest
     ```
-Iniciar el contenedor    
+- Iniciar el contenedor    
     ```sh
     docker run -p 27001:27001 --name mongo --network mongonet -d mongo:latest
     ```
