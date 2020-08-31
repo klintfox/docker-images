@@ -20,7 +20,7 @@
     ```
 ### Docker Compose 
 - Posicionarse en la misma ruta que el archivo docker-compose.yml y ejecutar el siguiente comando
-    ````sh
+    ```sh
         docker-compose up
     ```
 ### PostgreSql Manager
