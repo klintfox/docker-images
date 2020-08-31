@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  jenkins:
+    container_name: jenkins    
+    # image: jenkins/jenkins:lts
+    image: jenkins/jenkins:2.235.1-lts-centos7
+    ports:
+      -  "8085:8080"
+    volumes:
+      - ./jenkins_data:/var/jenkins_home jenkins
+    networks:
+    -  net
+
+networks:
+  net:
