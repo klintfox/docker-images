@@ -2,4 +2,4 @@
 
 ### Descripción 
 
-Implementación de diferentes images de dockerHub  utilizando dockerFile y docker-compose
+Implementación de diferentes aplicaciones utilizando images de dockerHub implementadas utilizando dockerFile, docker-compose o desde docker.
