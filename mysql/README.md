@@ -16,7 +16,7 @@
     ```
 - Ver los logs del contenedor 
     ```sh
-docker logs -f microservicios-mysql8
+    docker logs -f microservicios-mysql8
     ```
 
 ### Conexión por consola de Docker
